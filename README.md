@@ -1,5 +1,4 @@
-- 👋 Hola! Soy @chinoorc
-- 👀 Estoy tratando de entender este mundo y empezar a incursionar en la comunidad.
+# OrganicoSiOSi Frontend (React)
 
 ## Proyectos
 
